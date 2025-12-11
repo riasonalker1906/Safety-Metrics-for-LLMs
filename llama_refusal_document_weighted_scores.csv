@@ -1,0 +1,5 @@
+Metric,Value,Score (0-3),Weight,Weighted Contribution
+Clarity & Explicitness of Refusal Policies for Harmful Content,1.5,1.5,0.3,0.45
+"Depth & Robustness of Protections Against Violence, Self-Harm, and Illegal Requests",1.5,1.5,0.3,0.45
+Implementation & Enforcement Mechanisms,1.0,1.0,0.2,0.2
+Transparency & Accountability in Handling Such Requests,1.0,1.0,0.2,0.2

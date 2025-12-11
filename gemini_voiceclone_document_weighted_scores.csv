@@ -1,0 +1,5 @@
+Metric,Value,Score (0-3),Weight,Weighted Contribution
+Clarity & Explicitness of Voice-Cloning Risk Policies,1.0,1.0,0.3,0.3
+Depth & Robustness of Detection and Warning Mechanisms,1.0,1.0,0.3,0.3
+Implementation & Elder-Scenario Testing,1.0,1.0,0.2,0.2
+Transparency & Accountability in Voice-Cloning Safeguards,1.5,1.5,0.2,0.3

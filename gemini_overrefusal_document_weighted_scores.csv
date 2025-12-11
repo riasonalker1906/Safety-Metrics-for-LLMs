@@ -1,0 +1,5 @@
+Metric,Value,Score (0-3),Weight,Weighted Contribution
+Clarity & Explicitness of Over-Refusal Monitoring Policies,0.5,0.5,0.3,0.15
+Depth & Robustness of False Refusal Detection and Mitigation,1.0,1.0,0.3,0.3
+Implementation & Monitoring Mechanisms for Refusal Rates,1.0,1.0,0.2,0.2
+Transparency & Accountability in Reporting Over-Refusals,0.5,0.5,0.2,0.1

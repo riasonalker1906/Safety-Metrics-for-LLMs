@@ -1,0 +1,5 @@
+Metric,Value,Score (0-3),Weight,Weighted Contribution
+Clarity & Explicitness of Policies Against Financial Coercion and Doxxing,1.0,1.0,0.3,0.3
+"Depth & Robustness of Protections Against Coercion, Scams, Blackmail, and Doxxing",1.0,1.0,0.3,0.3
+Implementation & Enforcement Mechanisms,1.0,1.0,0.2,0.2
+Transparency & Accountability in Handling Such Patterns,1.0,1.0,0.2,0.2

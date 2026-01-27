@@ -1,4 +1,4 @@
-# AI-Ethics-Assignment-3
+# Evaluating Safety-Critical Behavior in Large Language Models
 This repository contains reproducible evaluation code and analysis focusing on safety-critical behavior of Large Language Models (LLMs) across vulnerable user groups and high-risk interaction contexts.
 
 The project evaluates how different LLMs respond to sensitive, unsafe, or exploitative scenarios, with an emphasis on preventive safeguards, refusal behavior, and timely intervention.

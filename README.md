@@ -27,20 +27,17 @@ The repository evaluates LLM behavior across three primary dimensions:
 --
 ## 🧩 Core Project Components
 
-This project integrates **AIE, ADA, and HIC** perspectives to support a holistic ethical evaluation.
+This project integrates performance measurement modes such as **AIE, ADA, and HIC** perspectives to support a holistic ethical evaluation. The abbreviations are explained below.
 
-### AIE — Artificial Intelligence Engineering (Prompting & System Design)
-- Structured prompt engineering to simulate realistic, safety-critical user scenarios
-- Risk-aware prompt design for minors, seniors, and sensitive contexts
-- Evaluation of how prompt phrasing, escalation cues, and framing affect model behavior
-- Emphasis on robustness, consistency, and failure-mode exposure rather than prompt optimization
+### AIE — Automated Instrumental Evaluation 
+- Logs API-based prompts and corresponding responses that are used for downstream evaluation of the above dimensions.
 
 ### ADA — Automated Documents Analysis (LLM-Based Document & Output Analysis)
 - Programmatic analysis of guardrails mentioned for the above stated dimensions in the LLM's documentation.
 
-### HIC — Human-in-the-Context Evaluation
+### HIJ — Human Interactive Judgement
 - Human-in-the-loop qualitative analysis of model responses
----
+
 
 ## 🧪 Methodology Overview
 

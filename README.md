@@ -1,7 +1,7 @@
 # Evaluating Safety-Critical Behavior in Large Language Models
 This repository contains reproducible evaluation code and analysis focusing on safety-critical behavior of Large Language Models (LLMs) across vulnerable user groups and high-risk interaction contexts.
 
-The project evaluates how different LLMs respond to sensitive, unsafe, or exploitative scenarios, with an emphasis on preventive safeguards, refusal behavior, and timely intervention.
+The project evaluates how Google's Gemini and Meta's Llama respond to sensitive, unsafe, or exploitative scenarios, with an emphasis on preventive safeguards, refusal behavior, and timely intervention.
 
 ---
 
@@ -24,13 +24,31 @@ The repository evaluates LLM behavior across three primary dimensions:
 - Responsiveness and timeliness of warnings or intervention
 - Balance between caution, clarity, and non-alarmist guidance
 
+--
+## 🧩 Core Project Components
+
+This project integrates **AIE, ADA, and HIC** perspectives to support a holistic ethical evaluation.
+
+### AIE — Artificial Intelligence Engineering (Prompting & System Design)
+- Structured prompt engineering to simulate realistic, safety-critical user scenarios
+- Risk-aware prompt design for minors, seniors, and sensitive contexts
+- Evaluation of how prompt phrasing, escalation cues, and framing affect model behavior
+- Emphasis on robustness, consistency, and failure-mode exposure rather than prompt optimization
+
+### ADA — Automated Documents Analysis (LLM-Based Document & Output Analysis)
+- Programmatic analysis of guardrails mentioned for the above stated dimensions in the LLM's documentation.
+
+### HIC — Human-in-the-Context Evaluation
+- Human-in-the-loop qualitative analysis of model responses
 ---
 
 ## 🧪 Methodology Overview
 
 - Scenario-based prompt generation simulating real-world risk contexts  
 - Controlled batch evaluation across multiple models  
-- Qualitative and semi-quantitative scoring using standardized rubrics  
+- Quantitative and qualitative scoring using standardized rubrics
+
+###
 
 ### Scoring Framework
 
@@ -75,6 +93,6 @@ The goal is **comparative ethical analysis**, not model endorsement.
 
 ## 📎 Notes
 
-- This repository is intended for academic and research use
+- This repository is intended for academic and research use 
 - No real user data is used
 - All scenarios are synthetic and ethically framed

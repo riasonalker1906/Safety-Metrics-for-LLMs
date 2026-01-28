@@ -24,7 +24,8 @@ The repository evaluates LLM behavior across three primary dimensions:
 - Responsiveness and timeliness of warnings or intervention
 - Balance between caution, clarity, and non-alarmist guidance
 
---
+---
+
 ## 🧩 Core Project Components
 
 This project integrates performance measurement modes such as **AIE, ADA, and HIC** perspectives to support a holistic ethical evaluation. The abbreviations are explained below.
@@ -38,6 +39,7 @@ This project integrates performance measurement modes such as **AIE, ADA, and HI
 ### HIJ — Human Interactive Judgement
 - Human-in-the-loop qualitative analysis of model responses
 
+---
 
 ## 🧪 Methodology Overview
 
